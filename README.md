@@ -14,7 +14,7 @@ Effortlessly manage your Chrome tabs with Phew's AI-Powered Auto-Grouping of Ver
 
 Step 1: Download the Extension
 
-First, download the phew-tab_xxx.zip file to your computer.
+First, download the latest installation package phew-tab_xxx.zip from Releases.
 
 Step 2: Open Chrome Extensions Page
 
@@ -40,4 +40,31 @@ Navigate to and select the folder where you extracted the ZIP file.
 Final Steps:
 
 The phew-tab extension should now be visible in your Chrome extensions list.
+
+### 安装步骤
+
+第 1 步：下载扩展
+
+首先，从Releases 下载最新安装包 phew-tab_xxx.zip
+
+第 2 步：打开 Chrome 扩展页面
+
+打开 Google Chrome 浏览器。
+在地址栏输入 chrome://extensions/，然后按 Enter 键。
+
+第 3 步：启用开发者模式
+
+在扩展页面的右上角找到并启用“开发者模式”切换开关。
+直接拖放方法：
+
+直接将 phew-tab_xxx.zip 压缩包从其下载位置拖动并放到扩展页面上。
+
+解压并加载方法：
+
+如果直接方法不起作用，右键点击 phew-tab_xxx.zip 文件，选择“全部解压...”进行解压。
+
+回到 Chrome 的扩展页面，点击“加载已解压的扩展”按钮。
+导航至并选择你解压 ZIP 文件的文件夹。
+
+phew-tab 扩展现在应该在你的 Chrome 扩展列表中可见。
 
