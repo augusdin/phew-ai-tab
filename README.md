@@ -25,11 +25,11 @@ Step 3: Enable Developer Mode
 
 On the Extensions page, find and enable the “Developer mode” toggle switch at the top-right corner.
 
-Direct Drag-and-Drop Method:
+1,Direct Drag-and-Drop Method:
 
 Simply drag the phew-tab_xxx.zip file from its download location and drop it directly onto the Extensions page.
 
-Unzip and Load Method:
+2, Unzip and Load Method:
 
 If the direct method doesn’t work, unzip the phew-tab_xxx.zip file by right-clicking it and selecting “Extract All…”.
 
