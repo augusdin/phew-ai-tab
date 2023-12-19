@@ -1,13 +1,15 @@
 <div align="center">
-<img src="./img/icon.png" width=50px height=50px>
-<h1>Phew Tab</h1>
+  <img src="./img/icon.png" width=50px height=50px>
+  <h1>Phew Tab</h1>
+  The Best AI-Based Tabs Management Extension<br/><br/>
 
-The Best AI-Based Tabs Management Extension
-
-<!-- [简体中文](https://github.com/receyuki/stable-diffusion-prompt-reader/blob/master/README.zh-Hans.md) | [English](https://github.com/receyuki/stable-diffusion-prompt-reader/blob/master/README.md) -->
-
-<br><br>
-
+  <a href="">
+      </a>
+      <img alt="Chrome Extensions" src="https://img.shields.io/badge/Chrome%20Extensions-supported-brightgreen.svg">
+      <img alt="GitHub version" src="https://img.shields.io/badge/version-1.0.0.4-blue.svg">
+      <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-used-brightgreen.svg">
+      
+  <br/>
 </div>
 
 ## Table of Contents
