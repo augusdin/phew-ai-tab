@@ -10,13 +10,19 @@ The Best AI-Based Tabs Management Extension
 
 </div>
 
-### About Phew Tab
+## Table of Contents
+
+- [Intro](#intro)
+- [Installation](#installation)
+- [Install Chrome Extension Tutorial](#Tutorial)
+
+### Intro <a name="intro"></a>
 
 "Finally, those hair-raising tabs are now neatly organized, Phew~" they often say.
 
 Phew Tab is a browser extension that helps you manage a large number of tabs easily and effectively with AI, presenting and managing them in a vertical layout.
 
-### Installation
+### Installation <a name="installation"></a>
 
 Phew Tab is now open for beta testing, and you are invited to join right now.
 
@@ -43,7 +49,7 @@ More of a WeChat person?
 Scan the attached QR code to join our group:
 <img  width="300" src="./img/beta_test.jpg">
 
-###  Install Chrome Extension Tutorial
+### Install Chrome Extension Tutorial <a name="tutorial"></a>
 
 Step 1: Download the Extension
 
@@ -74,7 +80,7 @@ Final Steps:
 
 The phew-tab extension should now be visible in your Chrome extensions list.
 
-### 安装步骤
+### Chrome扩展安装步骤
 
 第 1 步：下载扩展
 
