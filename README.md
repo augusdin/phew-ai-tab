@@ -6,7 +6,7 @@
   <a href="">
       </a>
       <img alt="Chrome Extensions" src="https://img.shields.io/badge/Chrome%20Extensions-supported-brightgreen.svg">
-      <img alt="GitHub version" src="https://img.shields.io/badge/version-1.0.0.4-blue.svg">
+      <img alt="GitHub tag (with filter)" src="https://img.shields.io/github/v/tag/augusdin/Phew-Tab">
       <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-used-brightgreen.svg">
       
   <br/>
