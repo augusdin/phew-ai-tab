@@ -9,7 +9,7 @@
       <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-used-brightgreen.svg">
       
   <br/>
-  https://github.com/augusdin/Phew-Tab/assets/129820382/fbd1bebc-781e-4923-b3d0-a1b5c4a0105a
+  <video width="600" height="393" src="https://github.com/augusdin/Phew-Tab/assets/129820382/fbd1bebc-781e-4923-b3d0-a1b5c4a0105a"></video>
 </div>
 
 ## Table of Contents
