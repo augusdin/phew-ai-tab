@@ -1,8 +1,7 @@
 <div align="center">
   <img src="./img/icon.png" width=50px height=50px>
   <h1>Phew AI Tab</h1>
-  The Best AI-Based Tabs Management Extension<br/><br/>
-
+  The Best AI-Based Tabs Management Extension<br/>
   <a href="">
       </a>
       <img alt="Chrome Extensions" src="https://img.shields.io/badge/Chrome%20Extensions-supported-brightgreen.svg">
@@ -10,6 +9,10 @@
       <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-used-brightgreen.svg">
       
   <br/>
+  <video width="600" height="393" controls>
+  <source src="./video/show.mp4" type="video/mp4">
+    您的浏览器不支持视频标签。
+  </video>
 </div>
 
 ## Table of Contents
