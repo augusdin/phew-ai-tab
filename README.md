@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./img/icon.png" width=50px height=50px>
-  <h1>Phew Tab</h1>
+  <h1>Phew AI Tab</h1>
   The Best AI-Based Tabs Management Extension<br/><br/>
 
   <a href="">
@@ -24,27 +24,27 @@
 
 "Finally, those hair-raising tabs are now neatly organized, Phew~" they often say.
 
-Phew Tab is a browser extension that helps you manage a large number of tabs easily and effectively with AI, presenting and managing them in a vertical layout.
+Phew AI Tab is a browser extension that helps you manage a large number of tabs easily and effectively with AI, presenting and managing them in a vertical layout.
 
 ## Installation <a name="installation"></a>
 
-Phew Tab is now open for beta testing, and you are invited to join right now.
+Phew AI Tab is now open for beta testing, and you are invited to join right now.
 
 Although the extension has been submitted to the Chrome Web Store, you will still need to manually download and install it from the Release before it is approved.
 
-**Download the Latest Version of Phew Tab Immediately:**
-[Phew Tab Latest Version](https://github.com/augusdin/phew-tab/releases/latest)
+**Download the Latest Version of Phew AI Tab Immediately:**
+[Phew AI Tab Latest Version](https://github.com/augusdin/phew-tab/releases/latest)
 
 Need help installing? [Here's a quick tutorial](#Tutorial)
 
 As a beta tester, you'll enjoy these two perks during the testing period:
 
-1. Your Phew Tab Pro Version Code
+1. Your Phew AI Tab Pro Version Code
 2. A Free OpenAI API Key
 <br/>(Join our community and get your rewards)
 
 And there's more:
-Join our beta discussion group to help shape Phew Tab's future.
+Join our beta discussion group to help shape Phew AI Tab's future.
 
 **Prefer Discord?**<a name="join_discord"></a><br/>
 [Join here](https://discord.gg/yHrws38W)
