@@ -42,13 +42,14 @@ As a beta tester, you'll enjoy these two perks during the testing period:
 And there's more:
 Join our beta discussion group to help shape Phew Tab's future.
 
-Prefer Discord?
+Prefer Discord?<br/>
 [Join here](https://discord.gg/yHrws38W)
 
 More of a WeChat person?
 Scan the attached QR code to join our group:
-<img  width="300" src="./img/beta_test.jpg">
-
+<br/>
+<img width="300" src="./img/beta_test.jpg" />
+<br/>
 ### Install Chrome Extension Tutorial <a name="tutorial"></a>
 
 Step 1: Download the Extension
