@@ -1,8 +1,8 @@
 <div align="center">
-<img src="./icon-128.png" width=50px height=50px>
+<img src="./img/icon.png" width=50px height=50px>
 <h1>Phew Tab</h1>
 
-Effortlessly manage your Chrome tabs with Phew's AI-Powered Auto-Grouping of Vertical Tabs Extension.
+The Best AI-Based Tabs Management Extension
 
 <!-- [简体中文](https://github.com/receyuki/stable-diffusion-prompt-reader/blob/master/README.zh-Hans.md) | [English](https://github.com/receyuki/stable-diffusion-prompt-reader/blob/master/README.md) -->
 
@@ -10,7 +10,40 @@ Effortlessly manage your Chrome tabs with Phew's AI-Powered Auto-Grouping of Ver
 
 </div>
 
-### How to Install
+### About Phew Tab
+
+"Finally, those hair-raising tabs are now neatly organized, Phew~" they often say.
+
+Phew Tab is a browser extension that helps you manage a large number of tabs easily and effectively with AI, presenting and managing them in a vertical layout.
+
+### Installation
+
+Phew Tab is now open for beta testing, and you are invited to join right now.
+
+Although the extension has been submitted to the Chrome Web Store, you will still need to manually download and install it from the Release before it is approved.
+
+Download the Latest Version of Phew Tab Immediately:
+[Phew Tab Latest Version](https://github.com/augusdin/phew-tab/releases/latest)
+
+Need help installing? Here's a quick tutorial
+
+As a beta tester, you'll enjoy these two perks during the testing period:
+
+1. Your Phew Tab Pro Version Code
+2. A Free OpenAI API Key
+(Join our community and get your rewards)
+
+And there's more:
+Join our beta discussion group to help shape Phew Tab's future.
+
+Prefer Discord?
+[Join here](https://discord.gg/yHrws38W)
+
+More of a WeChat person?
+Scan the attached QR code to join our group:
+<img  width="300" src="./img/beta_test.jpg">
+
+###  Install Chrome Extension Tutorial
 
 Step 1: Download the Extension
 
