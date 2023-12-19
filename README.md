@@ -28,7 +28,7 @@ Phew Tab is now open for beta testing, and you are invited to join right now.
 
 Although the extension has been submitted to the Chrome Web Store, you will still need to manually download and install it from the Release before it is approved.
 
-Download the Latest Version of Phew Tab Immediately:
+**Download the Latest Version of Phew Tab Immediately:**
 [Phew Tab Latest Version](https://github.com/augusdin/phew-tab/releases/latest)
 
 Need help installing? Here's a quick tutorial
@@ -42,14 +42,13 @@ As a beta tester, you'll enjoy these two perks during the testing period:
 And there's more:
 Join our beta discussion group to help shape Phew Tab's future.
 
-Prefer Discord?<br/>
+**Prefer Discord?**<br/>
 [Join here](https://discord.gg/yHrws38W)
 
-More of a WeChat person?
+**More of a WeChat person?**<br/>
 Scan the attached QR code to join our group:
 <br/>
 <img width="300" src="./img/beta_test.jpg" />
-<br/>
 ### Install Chrome Extension Tutorial <a name="tutorial"></a>
 
 Step 1: Download the Extension
