@@ -14,6 +14,8 @@ The Best AI-Based Tabs Management Extension
 
 - [Intro](#intro)
 - [Installation](#installation)
+  - [Join the Discord community](#join_discord)
+  - [Join the WeChat group](#join_wechat_group)
 - [Install Chrome Extension Tutorial](#Tutorial)
 
 ## Intro <a name="intro"></a>
@@ -31,21 +33,21 @@ Although the extension has been submitted to the Chrome Web Store, you will stil
 **Download the Latest Version of Phew Tab Immediately:**
 [Phew Tab Latest Version](https://github.com/augusdin/phew-tab/releases/latest)
 
-Need help installing? Here's a quick tutorial
+Need help installing? [Here's a quick tutorial](#Tutorial)
 
 As a beta tester, you'll enjoy these two perks during the testing period:
 
 1. Your Phew Tab Pro Version Code
 2. A Free OpenAI API Key
-(Join our community and get your rewards)
+<br/>(Join our community and get your rewards)
 
 And there's more:
 Join our beta discussion group to help shape Phew Tab's future.
 
-**Prefer Discord?**<br/>
+**Prefer Discord?**<a name="join_discord"></a><br/>
 [Join here](https://discord.gg/yHrws38W)
 
-**More of a WeChat person?**<br/>
+**More of a WeChat person?**<a name="join_wechat_group"></a><br/>
 Scan the attached QR code to join our group:
 <br/>
 <img width="300" src="./img/beta_test.jpg" />
