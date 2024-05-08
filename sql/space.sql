@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS "Space" (
+    "id" text PRIMARY KEY,
+    "clientId" text UNIQUE NOT NULL,
+    "userId" text UNIQUE,
+    "title" text NOT NULL,
+    "createAtTimestamp" bigint NOT NULL,
+    "updateAtTimestamp" bigint,
+    "syncedAtTimestamp" bigint,
+    "switchedOut" bigint,
+    "icon" text,
+    "color" text,
+    "isSelect" boolean,
+    "isSynced" boolean,
+    "hashedLastOpeningTabsData" text,
+    "encryptedCurrentTabsData" text NOT NULL,
+    "encryptedMagicSuspendedTabsData" text,
+    "encryptedPinnedTabsData" text,
+    "encryptedHistoryTabsData" text,
+    "isDeleted" boolean
+);
