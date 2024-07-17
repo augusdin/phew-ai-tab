@@ -16,9 +16,6 @@
 
 - [Intro](#intro)
 - [Installation](#installation)
-  - [Join the Discord community](#join_discord)
-  - [Join the WeChat group](#join_wechat_group)
-- [Install Chrome Extension Tutorial](#Tutorial)
 
 ## Intro <a name="intro"></a>
 
