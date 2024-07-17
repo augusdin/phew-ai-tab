@@ -13,6 +13,37 @@ All notable changes to this project will be documented in this file.
 ### Changed
 -
 
+## [alpha-0.2.1] - 2024.7-15
+
+### Added
+- [New] AI grouping and domain grouping now support sorting groups by the number of tabs, disabled by default
+- [New] After AI grouping, tabs within groups can be further sorted by domain, enabled by default
+- [New] Option to disable continuous automatic grouping. When disabled, clicking the group button performs grouping only once. Automatic grouping is enabled by default
+- [New] Ability to delete grouping rules, useful for reverting unsatisfactory AI grouping results
+- [New] Added premium user plan, supporting grouping with GPT4o
+- [New] Added "explanation" field for AI grouping, viewable in the Options page to understand AI grouping rationale and improve grouping effectiveness
+
+### Fixed
+- Resolved the issue of tab item focus loss during sliding
+
+### Changed
+- [Improved] Tab item height, making tabs more compact
+- [Improved] AI grouping effectiveness, enhancing consistency, stability, and accuracy of groupings
+- [Improved] In the Space list, the current Space is now placed at the end of the list for easier operation
+- [Changed] Due to suboptimal user experience, the page preview feature is temporarily suspended. It will return next month with improved usability
+
+## [alpha-0.2.0] - 2024.5-9
+
+### Added
+- 
+
+### Fixed
+- [Fixed] Issues with domain grouping
+- [Fixed] Problem of repeated grouping when Emoji is enabled during AI grouping
+
+### Changed
+- [Improved] Enhanced AI grouping speed by reducing prompt word count (only reducing descriptive content)
+
 ## [alpha-0.1.9] - 2024.5-8
 
 ### Added
