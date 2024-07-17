@@ -13,7 +13,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 -
 
-## [alpha-0.2.1] - 2024.7-15
+## [alpha-0.2.1] - 2024.7-17
 
 ### Added
 - [New] AI grouping and domain grouping now support sorting groups by the number of tabs, disabled by default
